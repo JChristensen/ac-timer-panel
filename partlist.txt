@@ -1,0 +1,15 @@
+Partlist
+
+Exported from ac-timer-panel.sch at 7/19/23 8:09 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device               Package     Library  Sheet
+
+D1       Green          LED5MM-LONGPADS      LED5MM-OVAL _jc      1
+D2       Yellow         LED5MM-LONGPADS      LED5MM-OVAL _jc      1
+D3       Red            LED5MM-LONGPADS      LED5MM-OVAL _jc      1
+JP1      JP1            M05LOCK              1X05_LOCK   SparkFun 1
+S1       Manual         SPST-NO-MCPUSHBUTTON SPST-NO-MC  _jc      1
